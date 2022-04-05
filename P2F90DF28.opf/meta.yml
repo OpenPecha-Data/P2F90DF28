@@ -1,0 +1,31 @@
+id: P2F90DF28
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1PD105834
+  instance_id: http://purl.bdrc.io/resource/IE1PD105834
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - མི་ཡུལ་གྱི་གཏམ་རྒྱུད།
+  alt_title:
+    en-x-mixed:
+    - Mi yul gyi gtam rgyud /Gaṅs-źun gyis brtsams.
+  author: http://purl.bdrc.io/resource/P7310
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    deda7a4ab0054f73974d7e5cf00fc178:
+      title: པོད ༡་མི་ཡུལ་གྱི་གཏམ་རྒྱུད་།
+      volume_number: 1
+      base_file: UT1PD105834_I1PD105836_0000.txt
+      reference: http://purl.bdrc.io/resource/VL4DB15EA8ACDDD607
+      image_group: I1PD105836
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1PD105834
+  - http://purl.bdrc.io/resource/W1PD105834
+  ocr_software: Namsel
+created_at: '2021-12-22T11:02:15.415661'
+last_modified_at: '2021-12-22T11:02:15.415666'
